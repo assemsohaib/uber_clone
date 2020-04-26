@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>700290445634-jjl85pp599san93vbrclc05kphr19888.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.700290445634-jjl85pp599san93vbrclc05kphr19888</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>700290445634-krkenf2dqg3navt8h94b7a78787rmtev.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqvrYxcTzk6E9TQXX1XrCJAkDjQlGQDwM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>700290445634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.asbensalah.uberclone</string>
+	<key>PROJECT_ID</key>
+	<string>uberclone-95622</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uberclone-95622.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:700290445634:ios:72fcd85d67f7c1773298db</string>
+	<key>DATABASE_URL</key>
+	<string>https://uberclone-95622.firebaseio.com</string>
+</dict>
+</plist>
